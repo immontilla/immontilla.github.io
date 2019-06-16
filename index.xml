@@ -8,6 +8,43 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>2019</copyright>
+    <lastBuildDate>Tue, 11 Jun 2019 23:36:19 +0200</lastBuildDate>
     <atom:link href="https://immontilla.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serverless architecture principles</title>
+      <link>https://immontilla.github.io/post/serverless-architecture-principles/</link>
+      <pubDate>Tue, 11 Jun 2019 23:36:19 +0200</pubDate>
+      <guid>https://immontilla.github.io/post/serverless-architecture-principles/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Use a compute service to execute code on demand (no servers).&lt;/li&gt;
+&lt;li&gt;Write single-purpose stateless functions.&lt;/li&gt;
+&lt;li&gt;Design push-based, event-driven pipelines.&lt;/li&gt;
+&lt;li&gt;Create thicker, more powerful front ends.&lt;/li&gt;
+&lt;li&gt;Embrace third-party services.&lt;/li&gt;
+&lt;/ol&gt;
+      </description>
+    </item>
+    <item>
+      <title>Serverless</title>
+      <link>https://immontilla.github.io/post/serverless-definition/</link>
+      <pubDate>Fri, 07 Jun 2019 23:35:30 +0200</pubDate>
+      <guid>https://immontilla.github.io/post/serverless-definition/</guid>
+      <description>&lt;p&gt;Serverless is about running code in a compute service and interacting with services and APIs to get the job done.&lt;/p&gt;
+      </description>
+    </item>
+    <item>
+      <title>SANS Ghidra Articles</title>
+      <link>https://immontilla.github.io/post/sans-ghidra-articles/</link>
+      <pubDate>Wed, 05 Jun 2019 23:15:45 +0200</pubDate>
+      <guid>https://immontilla.github.io/post/sans-ghidra-articles/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://digital-forensics.sans.org/blog/2019/04/16/a-few-ghidra-tips-for-ida-users-part-0-automatic-comments-for-api-call-parameters&#34; target=&#34;_blank&#34;&gt;Part 0 - Automatic comments for API call parameters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digital-forensics.sans.org/blog/2019/04/16/a-few-ghidra-tips-for-ida-users-part-1-the-decompilerunreachable-code&#34; target=&#34;_blank&#34;&gt;Part 1 - The decompiler/unreachable code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digital-forensics.sans.org/blog/2019/04/22/a-few-ghidra-tips-for-ida-users-part-2-strings-and-parameters&#34; target=&#34;_blank&#34;&gt;Part 2 - Strings and parameters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digital-forensics.sans.org/blog/2019/05/06/a-few-ghidra-tips-for-ida-users-part-3-conversion-labels-and-comments&#34; target=&#34;_blank&#34;&gt;Part 3 - Conversion, labels and comments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://digital-forensics.sans.org/blog/2019/06/14/a-few-ghidra-tips-for-ida-users-part-4-function-call-graphs&#34; target=&#34;_blank&#34;&gt;Part 4 - Function call graphs&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+      </description>
+    </item>
   </channel>
 </rss>

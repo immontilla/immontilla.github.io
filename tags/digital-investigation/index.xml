@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital-investigation on immontilla</title>
+    <link>https://immontilla.github.io/tags/digital-investigation/</link>
+    <description>Recent content in digital-investigation on immontilla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019</copyright>
+    <lastBuildDate>Wed, 05 Jun 2019 23:15:45 +0200</lastBuildDate>
+    <atom:link href="https://immontilla.github.io/tags/digital-investigation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SANS Ghidra Articles</title>
+      <link>https://immontilla.github.io/post/sans-ghidra-articles/</link>
+      <pubDate>Wed, 05 Jun 2019 23:15:45 +0200</pubDate>
+      <guid>https://immontilla.github.io/post/sans-ghidra-articles/</guid>
+      <description>A few Ghidra tips for IDA users shared at the &amp;lsquo;SANS Digital Forensics and Incident Response&amp;rsquo; Blog</description>
+    </item>
+  </channel>
+</rss>
